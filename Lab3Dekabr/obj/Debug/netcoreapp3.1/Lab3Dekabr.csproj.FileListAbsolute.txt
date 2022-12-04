@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Lab3Dekabr\bin\Debug\netcoreapp3.1\Lab3Dekabr.exe
+C:\Users\Администратор\source\repos\Lab3Dekabr\bin\Debug\netcoreapp3.1\Lab3Dekabr.deps.json
+C:\Users\Администратор\source\repos\Lab3Dekabr\bin\Debug\netcoreapp3.1\Lab3Dekabr.runtimeconfig.json
+C:\Users\Администратор\source\repos\Lab3Dekabr\bin\Debug\netcoreapp3.1\Lab3Dekabr.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Lab3Dekabr\bin\Debug\netcoreapp3.1\Lab3Dekabr.dll
+C:\Users\Администратор\source\repos\Lab3Dekabr\bin\Debug\netcoreapp3.1\Lab3Dekabr.pdb
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.dll
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.pdb
+C:\Users\Администратор\source\repos\Lab3Dekabr\obj\Debug\netcoreapp3.1\Lab3Dekabr.genruntimeconfig.cache
